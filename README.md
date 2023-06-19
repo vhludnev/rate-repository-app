@@ -1,1 +1,2 @@
 - Answers for Part10 exercises 10.1 - 10.2 are located in **part1** directory
+- Answers for Part10 exercises 10.3 - 10.10 are located in **part2** directory
